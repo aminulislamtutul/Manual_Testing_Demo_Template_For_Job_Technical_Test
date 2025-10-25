@@ -1,1 +1,1 @@
-# Manual_Testing_Demo_Template_For_Job_Technical_Test
+# **Manual Testing Demo Template For Job Technical Test**
